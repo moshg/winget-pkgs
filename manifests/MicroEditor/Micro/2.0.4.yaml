@@ -1,0 +1,16 @@
+Id: MicroEditor.Micro
+Version: 2.0.4
+Name: Micro
+Publisher: MicroEditor
+Author: Zachary Yedidia
+License: MIT
+LicenseUrl: https://github.com/zyedidia/micro/blob/v2.0.4/LICENSE
+AppMoniker: micro
+Tags: "micro,micro editor,text editor,editor"
+Description: A modern and intuitive terminal-based text editor
+Homepage: https://micro-editor.github.io/
+Installers:
+  - Arch: x64
+    Url: https://github.com/zyedidia/micro/releases/download/v2.0.4/micro-2.0.4-win64.zip
+    Sha256: C3557B66F6C117B2579CC3ABCDF3520A26854AEE7DF6CCE11CB19221D4B34FCB
+    InstallerType: zip
